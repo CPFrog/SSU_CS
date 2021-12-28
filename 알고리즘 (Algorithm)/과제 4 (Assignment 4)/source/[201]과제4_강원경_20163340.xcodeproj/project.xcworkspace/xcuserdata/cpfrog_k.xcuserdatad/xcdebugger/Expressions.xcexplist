@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:Question 5.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "key[i-1]-&gt;p">
+            </PersistentString>
+            <PersistentString
+               value = "key[i-1]-&gt;data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "floyd:Question 1.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(d+i*7+j)">
+            </PersistentString>
+            <PersistentString
+               value = "*(d+i*7+k)+*(d+k*7+j)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:Question 1.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(d)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
