@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "partition:quickSort.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(arr+r)">
+            </PersistentString>
+            <PersistentString
+               value = "*(arr+l)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "bubbleSort:bubbleSort.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(arr+i+1)">
+            </PersistentString>
+            <PersistentString
+               value = "*(arr+i)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "merge:mergeSort.c">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
