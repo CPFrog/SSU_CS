@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:20163340_&#x110b;&#x1175;&#x110c;&#x1175;&#x11ab; &#x1110;&#x1161;&#x11b7;&#x1109;&#x1162;&#x11a8;.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(arr+mid)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:20163340_&#x1109;&#x116e;&#x11ab;&#x110e;&#x1161; &#x1110;&#x1161;&#x11b7;&#x1109;&#x1162;&#x11a8;.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(arr+res)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
